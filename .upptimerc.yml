@@ -4,8 +4,10 @@ user-agent: bogdan-craciun
 sites:
   - name: AMN website
     url: https://amn.nl
+    icon: https://amn.nl/android-chrome-192x192.png
   - name: Insight application
     url: $INTAKE
+    icon: https://cluster.amn.nl/favicon.ico
 assignees:
   - bogdan-craciun
 
