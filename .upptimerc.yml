@@ -20,6 +20,8 @@ status-website:
   name: AMN Status Page
   introTitle: ""
   introMessage: This is the status page of [AMN](https://amn.nl).
+  favicon: https://amn.nl/android-chrome-192x192.png
+  faviconSvg: https://amn.nl/assets/images/logo-amn.svg
   navbar:
     - title: Status
       href: /
