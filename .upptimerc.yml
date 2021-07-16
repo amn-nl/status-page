@@ -1,10 +1,11 @@
-# Change these first
 owner: amn-nl # Your GitHub organization or username, where this repository lives
 repo: status-page # The name of this repository
 user-agent: bogdan-craciun
 sites:
   - name: AMN website
     url: https://amn.nl
+  - name: Insight application
+    url: $INTAKE
 assignees:
   - bogdan-craciun
 
@@ -16,7 +17,7 @@ status-website:
   logoUrl: https://amn.nl/assets/images/logo-amn.svg
   name: AMN Status Page
   introTitle: ""
-  introMessage: This is the status page of [AMN](https://amn.nl)
+  introMessage: This is the status page of [AMN](https://amn.nl).
   navbar:
     - title: Status
       href: /
