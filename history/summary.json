@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
-    "time": 267,
-    "timeDay": 374,
-    "timeWeek": 150,
+    "time": 264,
+    "timeDay": 129,
+    "timeWeek": 154,
     "timeMonth": 322,
-    "timeYear": 267,
+    "timeYear": 264,
     "dailyMinutesDown": {
       "2021-08-14": 6,
       "2021-08-11": 11,
@@ -26,19 +26,20 @@
     "url": "$INTAKE",
     "icon": "https://cluster.amn.nl/favicon.ico",
     "slug": "insight-application",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1613,
-    "timeDay": 11377,
-    "timeWeek": 3577,
-    "timeMonth": 1759,
-    "timeYear": 1613,
+    "status": "up",
+    "uptime": "99.29%",
+    "uptimeDay": "72.58%",
+    "uptimeWeek": "96.08%",
+    "uptimeMonth": "99.10%",
+    "uptimeYear": "99.29%",
+    "time": 2061,
+    "timeDay": 14946,
+    "timeWeek": 5635,
+    "timeMonth": 2382,
+    "timeYear": 2061,
     "dailyMinutesDown": {
-      "2021-08-23": 0
+      "2021-08-24": 326,
+      "2021-08-23": 69
     }
   }
 ]
