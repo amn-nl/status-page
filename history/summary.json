@@ -22,9 +22,9 @@
     "url": "$INTAKE",
     "icon": "https://cluster.amn.nl/favicon.ico",
     "slug": "insight-application",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
@@ -34,6 +34,7 @@
     "timeMonth": 1208,
     "timeYear": 1545,
     "dailyMinutesDown": {
+      "2021-11-15": 0,
       "2021-09-07": 9,
       "2021-08-24": 326,
       "2021-08-23": 69
