@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 115,
-    "timeDay": 43,
-    "timeWeek": 80,
-    "timeMonth": 100,
+    "timeDay": 49,
+    "timeWeek": 73,
+    "timeMonth": 98,
     "timeYear": 119,
     "dailyMinutesDown": {
       "2024-01-17": 16
@@ -24,17 +24,19 @@
     "url": "$INTAKE",
     "icon": "https://cluster.amn.nl/favicon.ico",
     "slug": "insight-application",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 774,
-    "timeDay": 583,
-    "timeWeek": 828,
-    "timeMonth": 719,
-    "timeYear": 792,
-    "dailyMinutesDown": {}
+    "time": 775,
+    "timeDay": 0,
+    "timeWeek": 808,
+    "timeMonth": 712,
+    "timeYear": 793,
+    "dailyMinutesDown": {
+      "2024-04-23": 0
+    }
   }
 ]
