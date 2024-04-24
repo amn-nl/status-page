@@ -26,17 +26,15 @@
     "slug": "insight-application",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 775,
     "timeDay": 889,
     "timeWeek": 820,
     "timeMonth": 718,
     "timeYear": 793,
-    "dailyMinutesDown": {
-      "2024-04-23": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
