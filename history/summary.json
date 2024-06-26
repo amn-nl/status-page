@@ -24,17 +24,19 @@
     "url": "$INTAKE",
     "icon": "https://cluster.amn.nl/favicon.ico",
     "slug": "insight-application",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 774,
-    "timeDay": 654,
-    "timeWeek": 765,
-    "timeMonth": 702,
-    "timeYear": 779,
-    "dailyMinutesDown": {}
+    "time": 811,
+    "timeDay": 10383,
+    "timeWeek": 3184,
+    "timeMonth": 1309,
+    "timeYear": 832,
+    "dailyMinutesDown": {
+      "2024-06-26": 0
+    }
   }
 ]
