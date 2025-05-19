@@ -1,7 +1,7 @@
 url: $INTAKE
-status: up
-code: 200
-responseTime: 559
-lastUpdated: 2025-05-18T23:02:36.114Z
+status: down
+code: 500
+responseTime: 735
+lastUpdated: 2025-05-19T22:45:43.176Z
 startTime: 2021-07-16T12:51:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
