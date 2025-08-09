@@ -6,18 +6,16 @@
     "slug": "amn-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 106,
-    "timeDay": 127,
-    "timeWeek": 132,
-    "timeMonth": 110,
+    "timeDay": 138,
+    "timeWeek": 130,
+    "timeMonth": 104,
     "timeYear": 109,
-    "dailyMinutesDown": {
-      "2025-08-08": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Insight application",
@@ -31,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 769,
-    "timeDay": 1030,
-    "timeWeek": 724,
-    "timeMonth": 681,
-    "timeYear": 736,
+    "timeDay": 558,
+    "timeWeek": 708,
+    "timeMonth": 665,
+    "timeYear": 735,
     "dailyMinutesDown": {
       "2024-12-21": 254
     }
