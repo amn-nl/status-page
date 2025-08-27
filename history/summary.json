@@ -4,19 +4,19 @@
     "url": "https://amn.nl",
     "icon": "https://amn.nl/android-chrome-192x192.png",
     "slug": "amn-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.45%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 107,
+    "time": 108,
     "timeDay": 179,
     "timeWeek": 125,
     "timeMonth": 121,
     "timeYear": 110,
     "dailyMinutesDown": {
-      "2025-08-27": 22
+      "2025-08-27": 15
     }
   },
   {
