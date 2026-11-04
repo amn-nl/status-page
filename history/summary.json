@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 444,
-    "timeDay": 1068,
-    "timeWeek": 642,
-    "timeMonth": 917,
+    "timeDay": 69,
+    "timeWeek": 626,
+    "timeMonth": 887,
     "timeYear": 513,
     "dailyMinutesDown": {
       "2026-01-08": 17,
@@ -31,19 +31,18 @@
     "slug": "insight-application",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.95%",
-    "time": 1278,
-    "timeDay": 34429,
-    "timeWeek": 14588,
-    "timeMonth": 5197,
-    "timeYear": 1376,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.96%",
+    "time": 1279,
+    "timeDay": 34424,
+    "timeWeek": 14559,
+    "timeMonth": 5179,
+    "timeYear": 1375,
     "dailyMinutesDown": {
       "2025-11-18": 142,
-      "2026-08-01": 93,
-      "2026-11-03": 3
+      "2026-08-01": 93
     }
   }
 ]
